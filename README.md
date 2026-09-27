@@ -17,7 +17,7 @@ Herramientas & Entornos: Visual Studio Code, Docker, Formspree, Postman
 
 🤖 bot devnexus: Bot de automatización e integración para comunidades de desarrollo.
 
-📫 ¿Dónde encontrarme?
+📫 Contacto
 LinkedIn: https://www.linkedin.com/in/roberto-andrade-dev/
 
 Email: roberx1772@gmail.com
